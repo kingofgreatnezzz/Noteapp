@@ -1,11 +1,12 @@
 import React from 'react'
 
-function NotePage() {
+function about() {
   return (
     <div>
-      note
+    about
+      
     </div>
   )
 }
 
-export default NotePage
+export default about

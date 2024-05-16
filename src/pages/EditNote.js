@@ -1,11 +1,12 @@
 import React from 'react'
 
-function NotePage() {
+function EditNote() {
   return (
     <div>
-      note
+      Edith
+      
     </div>
   )
 }
 
-export default NotePage
+export default EditNote

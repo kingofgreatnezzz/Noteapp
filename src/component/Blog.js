@@ -1,11 +1,11 @@
 import React from 'react'
 
-function NotePage() {
+function Blog() {
   return (
     <div>
-      note
+      blog infomation
     </div>
   )
 }
 
-export default NotePage
+export default Blog

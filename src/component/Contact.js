@@ -1,11 +1,11 @@
 import React from 'react'
 
-function NotePage() {
+function Contact() {
   return (
     <div>
-      note
+      Contact
     </div>
   )
 }
 
-export default NotePage
+export default Contact
